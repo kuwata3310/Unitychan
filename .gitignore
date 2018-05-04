@@ -4,4 +4,4 @@
 [Bb]uild/
 [Bb]uilds/
 Assets/AssetStoreTools*
-
+.DS_Store
